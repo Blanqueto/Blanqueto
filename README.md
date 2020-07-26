@@ -5,8 +5,5 @@ Watashinonamaeha HBlanquetodesu. Watashi wa 16-saidesu. Watashinoie wa mori-ō n
 
 <h2 align="center">Operative Systems I use</h2>
 
-| <a href="https://www.gnu.org/gnu/linux-and-gnu.es.html" target="_blank">**GNU/Linux**</a> | <a href="https://www.microsoft.com/es-mx/software-download/windows10" target="_blank">**Windows**</a> 
-
-
 |<a href="https://www.gnu.org/gnu/linux-and-gnu.es.html" target="_blank">**GNU/Linux**</a> | <a href="https://www.microsoft.com/es-mx/software-download/windows10" target="_blank">**Windows**</a>  <a href="http://slicklearn.xyz" target="_blank">**Slicklearn**</a> | <a href="https://github.com/2lstudios/lune-server" target="_blank">**LuneServer**</a> | <a href="https://github.com/2lstudios/lune-auth" target="_blank">**LuneAuth**</a> | <a href="http://2lidea.glitch.me" target="_blank">**IDEA**</a> |
 | :---: | :---: | :---: | :---: |
