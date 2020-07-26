@@ -15,7 +15,7 @@ I really like cats and chocolate
 
 <br>
 
-## Among some GNU / Linux distributions that I have used over time have been:
+## Some GNU/Linux distributions that I have used over time have been:
 
 #### Debian Based:
 
