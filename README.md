@@ -47,7 +47,7 @@ I started using Linux 2 years ago, and among all the distributions that I have c
 #### Facebook Group: <a href="https://www.facebook.com/groups/3401196263237743" target="_blank">**XUnix**</a>
 #### Reddit Account: <a href="https://www.reddit.com/user/HBlanqueto" target="_blank">**HBlanqueto**</a>
 #### Youtube Channel: <a href="https://www.youtube.com/channel/UC0YtVu6kMueGLIZbqnkBNkw?view_as=subscriber" target="_blank">**HBlanqueto**</a>    
-
+#### Pling: <a href="https://www.pling.com/u/hblanqueto/" target="_blank">**HBlanqueto**</a>    
 
 <h2 align="center">Things I Like</h2>
 <p align="center">Know a little about me! I share some of my tastes.</p>
