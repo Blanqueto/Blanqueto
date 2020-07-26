@@ -25,4 +25,4 @@ Watashinonamaeha HBlanquetodesu. Watashi wa 16-saidesu. Watashinoie wa mori-ō n
 
 | <a href="https://github.com/XUnix-Corps" target="_blank">**XUnix**</a> | 
 | :---: | 
-
+| <img align='center' src='https://avatars0.githubusercontent.com/u/47465684?s=200&v=4' height='100px'>
