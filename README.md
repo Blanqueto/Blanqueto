@@ -23,5 +23,6 @@ Watashinonamaeha HBlanquetodesu. Watashi wa 16-saidesu. Watashinoie wa mori-ō n
 <h2 align="center">Organization</h2>
 <p align="center">We are family and the family is there to support.</p>
 
-| <a href="https://github.com/XUnix-Corps" target="_blank">**XUnix**</a> |  | :---: | 
+| <a href="https://github.com/XUnix-Corps" target="_blank">**XUnix**</a> | 
+| :---: | 
 
