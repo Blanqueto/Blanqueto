@@ -32,4 +32,4 @@ Watashinonamaeha HBlanquetodesu. Watashi wa 16-saidesu. Watashinoie wa mori-ō n
 
 | <a href="http://slicklearn.xyz" target="_blank">**Slicklearn**</a> 
 | :---: |
-| <img align='center' src='https:https://avatars1.githubusercontent.com/u/68828079?s=400&u=a0e2d9b25f09f2925cfad2c92c76a0884a158d96&v=4' height='230px'> |
+| <img align='center' src='https://avatars1.githubusercontent.com/u/68828079?s=400&u=a0e2d9b25f09f2925cfad2c92c76a0884a158d96&v=4' height='230px'> |
