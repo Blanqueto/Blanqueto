@@ -9,6 +9,8 @@ Watashinonamaeha HBlanquetodesu. Watashi wa 16-saidesu. Watashinoie wa mori-ō n
    <img align='center' src='https://github.com/Hblanqueto/HBlanqueto/blob/master/Images/f59eqznks3851.png' height='350px'>
 </p>
 
+### Operative System I use
+
 <h2 align="center">Contact Me</h2>
 <p align="center">Contact me and join this incredible group.</p>
 
@@ -31,3 +33,15 @@ Watashinonamaeha HBlanquetodesu. Watashi wa 16-saidesu. Watashinoie wa mori-ō n
 | <a href="https://github.com/XUnix-Corps" target="_blank">**XUnix**</a> | 
 | :---: | 
 | <img align='center' src='https://avatars1.githubusercontent.com/u/68828079?s=400&u=a0e2d9b25f09f2925cfad2c92c76a0884a158d96&v=4' height='100px'>
+
+<img src="https://raw.githubusercontent.com/manilarome/the-glorious-screenshots/master/extra-2.webp" align="left" height="400px">
+<p align="left">
+So, what is ricing or RICE in the linux world? Ricing refers to making a visual improvement and customization on your desktop. It was inherited from the practice of improving, modifying, and customizing a cheap asian import cars to make them appear faster than they actually are. So in the world of cars, <b>RICE</b> means <i>Race Inspired Cosmetic Enhancement</i>.
+<br>
+<br>
+Ricing is actually fun and it's my hobby for quite a long time now. Anyone can rice. Also, your distro doesn't matter. You can rice on ubuntu, manjaro, debian, and the list goes on. I'm just using archlinux because it's so easy to use and I love it. The pacman and aur is the selling point for me, and these guys prevent me to distrohop again. There's also no <i>"best"</i> in ricing. There's no best window manager, best distro, best icon theme, so stop asking that. That "best" one is the one that will compliment you and your workflow well. Experiment. Have a vision on what you are trying to do. Then, do it. Just do it. :wink: Enough with the blabbering and happy hacking! :)
+</p>
+
+<br>
+<br>
+
