@@ -20,4 +20,13 @@ Watashinonamaeha HBlanquetodesu. Watashi wa 16-saidesu. Watashinoie wa mori-ō n
 #### Artist's Page: <a href="http://www.shadbase.com/" target="_blank">**Shadman**</a>
 #### My Hentai List: <a href="https://www.youtube.com/watch?v=WQRObrOqXho" target="_blank">**Top 50 Hentai this Summer**</a>
 
-<h2 align="center">My Repositories</h2>
+<h2 align="center">Organization</h2>
+<p align="center">A summary of organizations in which I participate.</p>
+
+| <a href="https://github.com/2lstudios" target="_blank">**2LStudios**</a> | <a href="https://github.com/2LStudios-MC" target="_blank">**2LSMC**</a> | <a href="https://github.com/rubiuscorp" target="_blank">**RubiusCorp**</a> | <a href="https://github.com/playpulse" target="_blank">**Pulse**</a> |
+|:---: | :---: | :---: | :---:|
+| <img align='center' src='https://avatars0.githubusercontent.com/u/47465684?s=200&v=4' height='100px'> | <img align='center' src='https://avatars2.githubusercontent.com/u/53847752?s=200&v=4' height='100px'> | <img align='center' src='https://avatars2.githubusercontent.com/u/60458264?s=200&v=4' height='100px'>  | <img align='center' src='https://avatars3.githubusercontent.com/u/56809805?s=200&v=4' height='100px'> |
+| <a href="http://github.com/2lstudios" target="_blank">`github.com/2lstudios`</a> | <a href="http://github.com/2lstudios-mc" target="_blank">`github.com/2lstudios-mc`</a> | <a href="https://github.com/rubiuscorp" target="_blank">`github.com/rubiuscorp`</a> | <a href="https://github.com/playpulse" target="_blank">`github.com/playpulse`</a> |
+
+<h2 align="center">Skills</h2>
+<p align="center">A summary of my programming skills.</p>
