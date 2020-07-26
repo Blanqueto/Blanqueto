@@ -1,7 +1,7 @@
 
 # BIO
 
-
+I really like cats and chocolate
 
 # Operative Systems I use
 
@@ -31,7 +31,8 @@ Arch Linux, Artix, Manjaro, Arco Linux, KaOS.
 Slackware
 <h2 align="center">Windows 10</h2>
 
-I started using Linux 2 years ago, and among all the distributions that I have come to use over time these are all the distributions that I have come to use, I still have a lot to learn from Linux, among my challenges is to master the Kernel , know and know its functions to be able to improve it and support the community. Not only that, but also design themes and upload them to Pling.com so that users can enjoy them.
+This is the operating system with which most start, I have actually achieved and learned quite a few things, I don't really use it much.
+I only have it to update since I need it for school (although I do my work in Linux) so I don't depend so much and I have it in a small part of my disk so it is for drawing
 
 </div>
 
