@@ -29,6 +29,10 @@ Arch Linux, Artix, Manjaro, Arco Linux, KaOS.
 
 #### Others: 
 Slackware
+
+These are some of the many distributions that I have used since I started two years ago so I still remember a bit how Fedora and Slackware are used. The others (Derived from Debian) if I remember them perfectly since my one of my relatives uses ubuntu and I am always there to support it
+
+
 <h2 align="center">Windows 10</h2>
 
 This is the operating system with which most start, I have actually achieved and learned quite a few things, I don't really use it much.
