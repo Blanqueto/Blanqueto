@@ -9,6 +9,7 @@ Watashinonamaeha HBlanquetodesu. Watashi wa 16-saidesu. Watashinoie wa mori-ō n
 
 <h2 align="center">GNU/Linux</h2>
 
+   I really like GNU / Linux, not only for the freedom as a user they give you, but I also like to create and modify desktop environments a lot, one of my favorites is KDE PLASMA which I do not separate due to its incredible customization and Easy to use. My current and favorite distribution is ARTIX LINUX which I do not plan to change in a long time or maybe if as long as my PC can support KISS Linux or Gentoo, but at the moment I do not plan to do it for the little power that mine has. , when I have a better processor I will do it
 
 </div>
 
@@ -39,6 +40,7 @@ Watashinonamaeha HBlanquetodesu. Watashi wa 16-saidesu. Watashinoie wa mori-ō n
 #### Favorite Digital Artist (Drawings): <a href="https://www.youtube.com/watch?v=WQRObrOqXho" target="_blank">**Shadman**</a>
 #### Artist's Page: <a href="http://www.shadbase.com/" target="_blank">**Shadman**</a>
 #### My Hentai List: <a href="https://www.youtube.com/watch?v=WQRObrOqXho" target="_blank">**Top 50 Hentai this Summer**</a>
+#### Favorite Respository: <a href="https://github.com/manilarome/the-glorious-dotfiles">**The Glorius Dotfiles**</a>
 
 <h2 align="center">Organization</h2>
 <p align="center">We are family and the family is there to support.</p>
