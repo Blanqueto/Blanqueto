@@ -21,12 +21,7 @@ Watashinonamaeha HBlanquetodesu. Watashi wa 16-saidesu. Watashinoie wa mori-ō n
 #### My Hentai List: <a href="https://www.youtube.com/watch?v=WQRObrOqXho" target="_blank">**Top 50 Hentai this Summer**</a>
 
 <h2 align="center">Organization</h2>
-<p align="center">A summary of organizations in which I participate.</p>
+<p align="center">We are family and the family is there to support.</p>
 
-| <a href="https://github.com/XUnix-Corps" target="_blank">**XUnix**</a>
+| <a href="https://github.com/XUnix-Corps" target="_blank">**XUnix**</a> |  | :---: | 
 
-| <img align='center' src='https://avatars0.githubusercontent.com/u/47465684?s=200&v=4' height='100px'> |
-| <a href="http://github.com/2lstudios" target="_blank">`github.com/2lstudios`</a> | <a href="http://github.com/2lstudios-mc" target="_blank">`github.com/2lstudios-mc`</a> | <a href="https://github.com/rubiuscorp" target="_blank">`github.com/rubiuscorp`</a> | <a href="https://github.com/playpulse" target="_blank">`github.com/playpulse`</a> |
-
-<h2 align="center">Skills</h2>
-<p align="center">A summary of my programming skills.</p>
