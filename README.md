@@ -17,11 +17,11 @@ Watashinonamaeha HBlanquetodesu. Watashi wa 16-saidesu. Watashinoie wa mori-ō n
 
 <br>
 
-### Among some GNU / Linux distributions that I have used over time have been:
+## Among some GNU / Linux distributions that I have used over time have been:
 
 #### Debian Based:
 
-Debian, MX Linux, Ubuntu, Xubuntu, Kubuntu, Deepin, Linux Mint, Zorin OS, Hanna Montana Linux, Elementary OS.
+Debian, MX Linux, Ubuntu, Xubuntu, Kubuntu, Lubuntu, Ubuntu Budgie, Deepin, Linux Mint, Zorin OS, Hanna Montana Linux, Elementary OS, Kali Linux, Parrot OS, Annonymus OS. 
 
 #### RedHat Based: 
 Fedora, Opensuse.
@@ -32,6 +32,8 @@ Arch Linux, Artix, Manjaro, Arco Linux, KaOS.
 #### Others: 
 Slackware
 <h2 align="center">Windows 10</h2>
+
+I started using Linux 2 years ago, and among all the distributions that I have come to use over time these are all the distributions that I have come to use, I still have a lot to learn from Linux, among my challenges is to master the Kernel , know and know its functions to be able to improve it and support the community. Not only that, but also design themes and upload them to Pling.com so that users can enjoy them.
 
 </div>
 
