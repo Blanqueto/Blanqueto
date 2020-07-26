@@ -17,7 +17,7 @@ Watashinonamaeha HBlanquetodesu. Watashi wa 16-saidesu. Watashinoie wa mori-ō n
 
 <br>
 
-## Among some GNU / Linux distributions that I have used over time have been:
+# Among some GNU / Linux distributions that I have used over time have been:
 
 ### Debian Based:
 
