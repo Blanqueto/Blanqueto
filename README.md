@@ -15,4 +15,8 @@ Watashinonamaeha HBlanquetodesu. Watashi wa 16-saidesu. Watashinoie wa mori-ō n
 <h2 align="center">Things I Like</h2>
 <p align="center">Know a little about me! I share some of my tastes.</p>
 
+### Favorite Song:  <a href="https://www.youtube.com/watch?v=171skzi5BKc" target="_blank">**Made in Heaven**</a>
+### Favorite Digital Artist (Drawings): <a href="https://www.youtube.com/watch?v=WQRObrOqXho" target="_blank">**Shadman**</a>
+### Artist's Page: <a href="http://www.shadbase.com/" target="_blank">**Shadman**</a>
 #### My Hentai List: <a href="https://www.youtube.com/watch?v=WQRObrOqXho" target="_blank">**Top 50 Hentai this Summer**</a>
+
