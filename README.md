@@ -5,7 +5,7 @@ Watashinonamaeha HBlanquetodesu. Watashi wa 16-saidesu. Watashinoie wa mori-ō n
 
 
 
-# Operative System I use
+# Operative Systems I use
 
 <h2 align="center">GNU/Linux</h2>
 
