@@ -5,7 +5,8 @@ Watashinonamaeha HBlanquetodesu. Watashi wa 16-saidesu. Watashinoie wa mori-ō n
 
 <h2 align="center">Operative Systems I use</h2>
 
-|<a href="https://www.gnu.org/gnu/linux-and-gnu.es.html" target="_blank">**GNU/Linux**</a> | <a href="https://www.microsoft.com/es-mx/software-download/windows10" target="_blank">**Windows**</a>  <a href="http://slicklearn.xyz" target="_blank">**Slicklearn**</a> | <a href="https://github.com/2lstudios/lune-server" target="_blank">**LuneServer**</a> | <a href="https://github.com/2lstudios/lune-auth" target="_blank">**LuneAuth**</a> | <a href="http://2lidea.glitch.me" target="_blank">**IDEA**</a> |
+
+| <a href="http://slicklearn.xyz" target="_blank">**Slicklearn**</a> | <a href="https://github.com/2lstudios/lune-server" target="_blank">**LuneServer**</a> | <a href="https://github.com/2lstudios/lune-auth" target="_blank">**LuneAuth**</a> | <a href="http://2lidea.glitch.me" target="_blank">**IDEA**</a> |
 | :---: | :---: | :---: | :---: |
 | <img align='center' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/projects/slicklearn.png' height='100px'> | <img align='center' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/projects/luneserver.png' height='100px'> | <img align='center' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/projects/luneauth.png' height='100px'>  | <img align='center' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/projects/idea.png' height='100px'> |
 | <a href="http://slicklearn.xyz" target="_blank">`slicklearn.xyz`</a> | <a href="http://github.com/2lstudios/lune-server" target="_blank">`github.com/2lstudios/lune-server`</a> | <a href="http://github.com/2lstudios/lune-auth" target="_blank">`github.com/2lstudios/lune-auth`</a> | <a href="https://2lidea.glitch.me/" target="_blank">`2lidea.glitch.me`</a> |
