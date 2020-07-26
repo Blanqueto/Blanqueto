@@ -6,7 +6,7 @@ Watashinonamaeha HBlanquetodesu. Watashi wa 16-saidesu. Watashinoie wa mori-ō n
 <p align="center">This is my Real Desktop Enviroment.</p>
 
 <p align="center">
-   <img align='center' src='https://github.com/Hblanqueto/HBlanqueto/blob/master/Images/f59eqznks3851.png' height='450px'>
+   <img align='center' src='https://github.com/Hblanqueto/HBlanqueto/blob/master/Images/f59eqznks3851.png' height='350px'>
 </p>
 
 <h2 align="center">Contact Me</h2>
@@ -30,4 +30,4 @@ Watashinonamaeha HBlanquetodesu. Watashi wa 16-saidesu. Watashinoie wa mori-ō n
 
 | <a href="https://github.com/XUnix-Corps" target="_blank">**XUnix**</a> | 
 | :---: | 
-| <img align='center' src='https://avatars0.githubusercontent.com/u/47465684?s=200&v=4' height='100px'>
+| <img align='center' src='https://avatars1.githubusercontent.com/u/68828079?s=400&u=a0e2d9b25f09f2925cfad2c92c76a0884a158d96&v=4' height='100px'>
