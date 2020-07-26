@@ -17,19 +17,19 @@ Watashinonamaeha HBlanquetodesu. Watashi wa 16-saidesu. Watashinoie wa mori-ō n
 
 <br>
 
-# Among some GNU / Linux distributions that I have used over time have been:
+### Among some GNU / Linux distributions that I have used over time have been:
 
-### Debian Based:
+#### Debian Based:
 
 Debian, MX Linux, Ubuntu, Xubuntu, Kubuntu, Deepin, Linux Mint, Zorin OS, Hanna Montana Linux, Elementary OS.
 
-### RedHat Based: 
+#### RedHat Based: 
 Fedora, Opensuse.
 
-### Arch Linux Based:
+#### Arch Linux Based:
 Arch Linux, Artix, Manjaro, Arco Linux, KaOS.
 
-### Others: 
+#### Others: 
 Slackware
 <h2 align="center">Windows 10</h2>
 
