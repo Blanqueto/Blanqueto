@@ -7,13 +7,16 @@ Watashinonamaeha HBlanquetodesu. Watashi wa 16-saidesu. Watashinoie wa mori-ō n
 
 ### Operative System I use
 
+<h2 align="center">GNU/Linux</h2>
+
+
 </div>
 
 <img src="https://github.com/Hblanqueto/HBlanqueto/blob/master/Images/f59eqznks3851%20(1).webp" align="center">
 
 <br>
 
-
+<h2 align="center">Windows 10</h2>
 
 </div>
 
