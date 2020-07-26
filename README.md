@@ -1,5 +1,7 @@
 
 # BIO
 
-Me llamo HBlanqueto. Tengo 16 años. Mi casa está al noroeste de Morioh, donde están las casas grandes y no estoy casado. Trabajo como empleado en el supermercado Kame Yu y llego a casa todos los días a más tardar a las 8:00 pm. No fumo y solo bebo en ocasiones. Duermo a las 11:00 pm y siempre procuro dormir ocho horas. Después de beber un vaso de leche tibia y hacer unos 20 minutos de calistenia antes de ir a la cama, suelo dormir hasta la mañana. Despierto sin fatiga ni estrés, como un bebé. En mi último chequeo, me dijeron que estoy sano.
+Watashinonamaeha HBlanquetodesu. Watashi wa 16-saidesu. Watashinoie wa mori-ō no hokusei ni ari, ōkina ie ga ari, watashi wa kekkon shite imasen. Sūpā kame no yu de shain to shite hataraki, gogo 8-ji made ni kitaku. Watashi wa tabako o suwanaishi, tamani shika nomanai. Watashi wa gogo 11-ji ni nete, tsuneni 8-jikan neyou to shimasu. Atatakai gyūnyū o 1-pai nonde shūshinzen ni yaku 20-bu no taisō o shita nochi, watashi wa tsūjō asamade nete imasu. Watashi wa akachan no yō ni tsukare mo sutoresu mo naku mezamemasu. Watashi no saigo no kenkōshinda de, watashi wa kenkōda to iwa remashita.
+
+<h2 align="center">Operative Systems I use</h2>
 
