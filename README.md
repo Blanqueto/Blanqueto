@@ -1,49 +1,4 @@
 
-# BIO
-
-I really like cats and chocolate
-
-# Operative Systems I use
-
-<h2 align="center">GNU/Linux</h2>
-
-   I really like GNU / Linux, not only for the freedom as a user they give you, but I also like to create and modify desktop environments a lot, one of my favorites is KDE PLASMA which I do not separate due to its incredible customization and Easy to use. My current and favorite distribution is ARTIX LINUX which I do not plan to change in a long time or maybe if as long as my PC can support KISS Linux or Gentoo, but at the moment I do not plan to do it for the little power that mine has. , when I have a better processor I will do it
-
-</div>
-
-<img src="https://github.com/Hblanqueto/HBlanqueto/blob/master/Images/f59eqznks3851%20(1).webp" align="center">
-
-<br>
-
-## Some GNU/Linux distributions that I have used over time have been:
-
-#### Debian Based:
-
-Debian, MX Linux, Ubuntu, Xubuntu, Kubuntu, Lubuntu, Ubuntu Budgie, Deepin, Linux Mint, Zorin OS, Hanna Montana Linux, Elementary OS, Kali Linux, Parrot OS, Annonymus OS. 
-
-#### RedHat Based: 
-Fedora, Opensuse.
-
-#### Arch Linux Based:
-Arch Linux, Artix, Manjaro, Arco Linux, KaOS.
-
-#### Others: 
-Slackware
-
-These are some of the many distributions that I have used since I started two years ago so I still remember a bit how Fedora and Slackware are used. The others (Derived from Debian) if I remember them perfectly since my one of my relatives uses ubuntu and I am always there to support it
-
-
-<h2 align="center">Windows 10</h2>
-
-This is the operating system with which most start, I have actually achieved and learned quite a few things, I don't really use it much.
-I only have it to update since I need it for school (although I do my work in Linux) so I don't depend so much and I have it in a small part of my disk so it is for drawing
-
-</div>
-
-<img src="https://github.com/Hblanqueto/HBlanqueto/blob/master/Images/2020-07-26%20(1).webp" align="center">
-
-<br>
-
 <h2 align="center">Contact Me</h2>
 <p align="center">Contact me and join this incredible group.</p>
 
