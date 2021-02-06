@@ -6,3 +6,4 @@
 - Youtube Channel: <a href="https://www.youtube.com/channel/UC0YtVu6kMueGLIZbqnkBNkw?view_as=subscriber" target="_blank">**HBlanqueto**</a>    
 - My Hentai List: <a href="https://www.youtube.com/watch?v=WQRObrOqXho" target="_blank">**Top 50 Hentai this Summer**</a>
 
+**[Hentai List](https://www.youtube.com/watch?v=WQRObrOqXho" target="_blank)**
