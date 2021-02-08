@@ -1,4 +1,6 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HBlanqueto&show_icons=true&theme=dracula)
+| **STATUS** |
+| --- | 
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HBlanqueto&show_icons=true&theme=dracula) |
 
  ### ***📂 Personal***
 - **[My Dotfiles](https://github.com/Hblanqueto/The-Sensuals-Dotfiles)**
