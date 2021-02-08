@@ -1,8 +1,7 @@
 
-***Things that could Help you 😉***
+***Personal 👓***
 - **[My Dotfiles](https://github.com/Hblanqueto/The-Sensuals-Dotfiles)** 📂
-- **[Hentai List](https://www.youtube.com/watch?v=WQRObrOqXho)** 🔥
-
+- **[Hentai](https://www.youtube.com/watch?v=WQRObrOqXho)** 🔥
 
 ***Contact me 👥***
 - **[Facebook Group](https://www.facebook.com/groups/3401196263237743)** 🖼
