@@ -1,7 +1,13 @@
 
 <h2 align="center">HBlanqueto</h2>
 <p align="center">Contact me and join my group.</p>
-(https://github.com/Hblanqueto/HBlanqueto/blob/master/Images/made-in-heaven.gif)
+<div align="center">
+    <h3>
+<a href="https://github.com/victor-bayas/simplyarch"> <img src="https://github.com/Hblanqueto/HBlanqueto/blob/master/Images/made-in-heaven.gif" align="center" height="100px"> </a>
+</h3>
+ </div>
+</a>
+
 
 - **[Dotfiles](https://github.com/Hblanqueto/The-Sensuals-Dotfiles)**
 - **[Group](https://www.facebook.com/groups/3401196263237743)**
