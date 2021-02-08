@@ -16,7 +16,6 @@
 <div align="right">    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HBlanqueto&show_icons=true&theme=tokyonight)
 </div>
-
 - **[Facebook Group](https://www.youtube.com/watch?v=ttD1FsN31cw&ab_channel=LleinsAlexanderAmayoQuintana3)**
 - **[Telegram Group](https://t.me/XUnixCommunity)**
 
