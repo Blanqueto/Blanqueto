@@ -4,7 +4,7 @@
 <div align="center">
     <h3>
         
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HBlanqueto&show_icons=true&theme=tokyonight)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HBlanqueto&show_icons=true&theme=tokyonight)
 
 </div>
 
@@ -13,10 +13,10 @@
 
 ## ***👥 Contact me***
 
-<div align="left">
+<div align="right">
     <h3>
         
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HBlanqueto&show_icons=true&theme=tokyonight)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HBlanqueto&show_icons=true&theme=tokyonight)
 
 </div>
 
