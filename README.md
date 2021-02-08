@@ -1,5 +1,6 @@
- ## ***📂 Personal***
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HBlanqueto) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HBlanqueto)](https://github.com/anuraghazra/github-readme-stats)
+**Hello, I'm HBlanqueto 👋**
+## ***📂 Personal***
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HBlanqueto) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HBlanqueto)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - **[My Dotfiles](https://github.com/Hblanqueto/The-Sensuals-Dotfiles)**
