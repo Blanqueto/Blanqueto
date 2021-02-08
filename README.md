@@ -4,7 +4,7 @@
 27% completed to reach heaven</p>
 <div align="center">
     <h3>
-<a href="https://www.youtube.com/watch?reload=9&v=H3QGvXCLqDY&ab_channel=TheAluminumDragon"> <img src="https://github.com/Hblanqueto/HBlanqueto/blob/master/Images/ll.gif" align="center" height="100px"> </a>
+<a href="https://www.youtube.com/watch?reload=9&v=H3QGvXCLqDY&ab_channel=TheAluminumDragon"> <img src="https://github.com/Hblanqueto/HBlanqueto/blob/master/Images/ll.gif" align="center" height="300px"> </a>
 </h3>
  </div>
 </a>
