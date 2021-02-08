@@ -1,6 +1,7 @@
 
 <h2 align="center">HBlanqueto</h2>
-<p align="center">Contact me and join my group.</p>
+<p align="center">
+***27% completed to reach heaven***</p>
 <div align="center">
     <h3>
 <a href="https://github.com/victor-bayas/simplyarch"> <img src="https://github.com/Hblanqueto/HBlanqueto/blob/master/Images/made-in-heaven.gif" align="center" height="100px"> </a>
