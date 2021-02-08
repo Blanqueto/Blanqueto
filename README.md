@@ -1,7 +1,7 @@
 
 
 ***Things that could Help you 😉***
-- **[Dotfiles](https://github.com/Hblanqueto/The-Sensuals-Dotfiles)**
+- **[My Dotfiles](https://github.com/Hblanqueto/The-Sensuals-Dotfiles)**
 - **[Hentai List](https://www.youtube.com/watch?v=WQRObrOqXho)**
 
 ***Contact me 👥***
