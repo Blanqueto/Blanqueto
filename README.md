@@ -6,6 +6,6 @@
 
 ## ***👥 Contact me***
 
-- **[Facebook Group](https://www.youtube.com/watch?v=ttD1FsN31cw&ab_channel=LleinsAlexanderAmayoQuintana3)**
+- **[Facebook Group](https://www.facebook.com/groups/xunix.welcome.to.the.heaven)**
 - **[Telegram Group](https://t.me/XUnixCommunity)**
 
