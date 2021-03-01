@@ -1,8 +1,6 @@
 **Hello, I'm HBlanqueto 👋**
 
-Have you seen SCP-2521? Oh... Fuck
-
-AAAAAAAAAAAAAAHHHHHHHHHHHHHH!
+Have you seen SCP-2521? I like the subject of computer science, programming and although I do not understand it very well, personally I hope to develop myself as an excellent engineer
 
 ## ***📂 Personal***
 
