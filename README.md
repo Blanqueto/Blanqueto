@@ -1,4 +1,7 @@
 **Hello, I'm HBlanqueto 👋**
+Have you seen SCP-2521? Oh... Fuck
+AAAAAAAAAAAAAAHHHHHHHHHHHHHH!
+
 ## ***📂 Personal***
 
 - **[My Dotfiles](https://github.com/Hblanqueto/The-Sensuals-Dotfiles)**
