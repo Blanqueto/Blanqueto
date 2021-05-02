@@ -2,6 +2,8 @@
 
 Have you seen SCP-2521? I like the subject of computer science, programming and although I do not understand it very well, personally I hope to develop myself as an excellent engineer
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blanqueto&count_private=true)
+
 ## ***📂 Personal***
 
 - **[My Dotfiles](https://github.com/Hblanqueto/The-Sensuals-Dotfiles)**
