@@ -28,6 +28,7 @@ $ Nothing for now͟
 - [ ] Learn Python   
 - [ ] Understand Git & GitHub   
 - [ ] Make a little program    
-  
+- [x] Organize my GitHub account 
+- [ ] Try & configure Emacs
   
 </details>
