@@ -28,7 +28,7 @@ hblanqueto-GitHub ~ $ _
   ⠀⠀
   
 - **Discord:** HBlanqueto#9586 
-- **Reddit:** r/HBlanqueto
+- **Reddit:** u/HBlanqueto
 - **Telegram Group:** [Here](https://t.me/XUnixCommunity)
 - **Facebook Group:** [Here](https://www.facebook.com/groups/xunix.welcome.to.the.heaven)
   
