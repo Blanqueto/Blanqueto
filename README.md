@@ -6,17 +6,15 @@ I am 17 years old, I am currently studying high school, I am interested in learn
 hblanqueto-GitHub ~ $ gitfetch --repos
 
 ⠀⠀⠀⠀⣠⣶⡾⠏⠉⠙⠳⢦⡀⠀⠀⠀⢠⠞⠉⠙⠲⡀⠀   HBlanqueto/HBlanqueto
-⠀⠀⠀⣴⠿⠏⠀⠀⠀⠀⠀⠀⢳⡀⠀⡏⠀⠀⠀⠀⠀⢷   ------------------------
-⠀⠀⢠⣟⣋⡀⢀⣀⣀⡀⠀⣀⡀⣧⠀⢸⠀⠀⠀⠀⠀ ⡇  Programming: Trying Lua
-⠀ ⢸⣯⡭⠁⠸⣛⣟⠆⡴⣻⡲⣿⠀⣸⠀⠀OK⠀  ⡇  System: Windows 10 & Debian Bullseye <3
-⠀⠀⣟⣿⡭⠀⠀⠀⠀⠀⢱⠀⠀⣿⠀⢹⠀⠀⠀⠀⠀ ⡇   WM: Awesome
-⠀⠀⠙⢿⣯⠄⠀⠀⠀⢀⡀⠀⠀⡿⠀⠀⡇⠀⠀⠀⠀⡼    Dots: Do I have?
-⠀⠀⠀⠀⠹⣶⠆⠀⠀⠀⠀⠀⡴⠃⠀⠀⠘⠤⣄⣠⠞⠀   Country: Mexico 
+⠀⠀⠀⣴⠿⠏⠀⠀⠀⠀⠀⠀⢳⡀⠀  ⡏⠀⠀⠀⠀ ⢷   ------------------------
+⠀⠀⢠⣟⣋⡀⢀⣀⣀⡀⠀⣀⡀⣧⠀ ⡇ ⠀⠀⠀⠀ ⡇  Programming: Trying Lua
+⠀ ⢸⣯⡭⠁⠸⣛⣟⠆⡴⣻⡲⣿⠀⣸⠀⠀ OK⠀ ⡇  System: Windows 10 & Debian Bullseye <3
+⠀⠀⣟⣿⡭⠀⠀⠀⠀⠀⢱ ⠀⠀⣿⠀⢹⠀  ⠀⠀⠀ ⡇  WM: Awesome
+⠀⠀⠙⢿⣯⠄⠀⠀⠀⢀⡀⠀⠀⡿⠀⠀⡇⠀⠀ ⠀⠀⡼   Dots: Do I have?
+⠀⠀⠀⠀⠹⣶⠆⠀⠀⠀⠀⠀⡴⠃⠀⠀⠘⠤⣄⣠⠞⠀    Country: Mexico 
 ⠀⠀⠀⠀⠀⢸⣷⡦⢤⡤⢤⣞⣁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   Favorite Song: Made In Heaven - Queem
-⠀⠀⢀⣤⣴⣿⣏⠁⠀⠀⠸⣏⢯⣷⣖⣦⡀⠀⠀⠀⠀⠀⠀ Stand: Made In Heaven
+⠀⠀⢀⣤⣴⣿⣏⠁⠀⠀⠸⣏⢯⣷⣖⣦⡀⠀⠀⠀⠀⠀⠀  Stand: Made In Heaven
 ⢀⣾⣽⣿⣿⣿⣿⠛⢲⣶⣾⢉⡷⣿⣿⠵⣿⠀⠀⠀⠀⠀⠀  
-⣼⣿⠍⠉⣿⡭⠉⠙⢺⣇⣼⡏⠀⠀⠀⣄⢸⠀⠀⠀⠀⠀⠀              
-⣿⣿⣧⣀⣿………⣀⣰⣏⣘⣆⣀⠀⠀
 
 hblanqueto-GitHub ~ $ _
 
