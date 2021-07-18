@@ -40,7 +40,7 @@ hblanqueto-GitHub ~ $ _
 #### Take a look at these cool repositories!
 
 - 🗃 [Dotfiles](https://github.com/HBlanqueto/dotsbian)
-- **More coming soon**
+- 👔 [Neovim Dots](https://github.com/HBlanqueto/DotNvim)
 
 <details>
   <summary><b>  📚 TODO</b></summary>
