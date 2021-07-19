@@ -48,9 +48,7 @@ hblanqueto-GitHub ~ $ _
   
 - [ ] Learn Lua
 - [ ] Learn Python   
-- [ ] Understand Git & GitHub   
-- [ ] Make a little program    
+- [x] Understand Git & GitHub     
 - [x] Organize my GitHub account 
-- [ ] Try & configure Emacs
   
 </details>
