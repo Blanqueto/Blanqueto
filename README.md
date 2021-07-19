@@ -41,7 +41,7 @@ hblanqueto-GitHub ~ $ _
 
 - 🗃 [Dotfiles](https://github.com/HBlanqueto/dotsbian)
 - 👔 [Neovim Dots](https://github.com/HBlanqueto/DotNvim)
-- [Bling](https://github.com/BlingCorp/bling)
+-  :star: [Bling](https://github.com/Nooo37/bling)
 <details>
   <summary><b>  📚 TODO</b></summary>
   ⠀⠀⠀⠀
